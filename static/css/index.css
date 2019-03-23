@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	font-family: 'Merriweather', serif;
+}
+
+.container {
+	background-color: turquoise;
+}
+
+.title {
+	font: 35px Bold;
+	font-family: 'Germania One', cursive;
+}
