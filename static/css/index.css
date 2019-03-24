@@ -3,6 +3,15 @@ body {
 	font-family: 'Merriweather', serif;
 }
 
+footer {
+	background-color: orange;
+	margin-bottom: 0;
+	padding: 25px;
+	font: 30px Bold;
+	font-family: 'Baloo Chettan', cursive;
+
+}
+
 .container {
 	background-color: turquoise;
 }
