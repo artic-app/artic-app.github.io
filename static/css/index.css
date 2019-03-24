@@ -21,17 +21,26 @@ footer {
 	font-family: 'Germania One', cursive;
 }
 
+.center {
+	text-align: center;
+}
+
 /* White paper contents */
 .title_rp {
 	background-color: #45BAD4;
-	font: 25px Bold;
+	font: 20px Bold;
 	font-family: 'Acme', sans-serif;
 	padding: 10px;
 	width: 75%;
 	margin: 5px;
+	text-transform: uppercase;
 }
 
 .description_rp {
 	font-family: 'Play', sans-serif;
+}
 
+.subtitle_rp {
+	background-color: orange;
+	width: 30%;
 }
