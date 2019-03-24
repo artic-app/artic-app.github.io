@@ -20,3 +20,18 @@ footer {
 	font: 35px Bold;
 	font-family: 'Germania One', cursive;
 }
+
+/* White paper contents */
+.title_rp {
+	background-color: #45BAD4;
+	font: 25px Bold;
+	font-family: 'Acme', sans-serif;
+	padding: 10px;
+	width: 75%;
+	margin: 5px;
+}
+
+.description_rp {
+	font-family: 'Play', sans-serif;
+
+}
